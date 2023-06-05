@@ -1,1 +1,0 @@
-# producthunt_nextjs
